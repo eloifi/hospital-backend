@@ -1,0 +1,15 @@
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/geo/Ville.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/acceuil/Hospitalisation.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/medecine/Patient.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/control/HospitalController.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/dao/VilleDao.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/acceuil/Service.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/dao/HospitalDao.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/acceuil/Patient.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/medecine/Doctor.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/acceuil/Lit.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/acceuil/Appointment.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/dao/DoctorDao.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/dao/PatientDao.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/model/acceuil/Hospital.java
+/home/eloifi/dev/git/gitlab/hospital/src/main/java/com/HospitalApplication.java
